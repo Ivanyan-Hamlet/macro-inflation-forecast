@@ -41,4 +41,7 @@ Limitations / Next steps
 
 The sample ends around 2022 for the selected CPI source. The pipeline is reusable with newer CPI data.
 
+
 Structural breaks (e.g., 2022) require regime/shock indicators or additional exogenous variables.
+## Plot
+![Walk-forward Inflation](figures/walkforward_infl_mom.png)
